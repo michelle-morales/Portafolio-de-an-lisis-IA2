@@ -1,6 +1,6 @@
 # Portafolio-de-analisis-IA2
 
-Este repositorio sirve como mi portafolio de análisis, donde documento los trabajos realizados en los módulos de Cloud Computing, Estadística, Big Data y Procesamiento de Lenguaje Natural (NLP) durante mis clases.
+Este repositorio es mi portafolio de análisis, donde documento los trabajos realizados en los módulos de Cloud Computing, Estadística, Big Data y Procesamiento de Lenguaje Natural (NLP) durante mis clases.
 
 ## Módulos
 
@@ -22,8 +22,8 @@ La sección NLP tiene el trabajo que se evaluará para el respectivo módulo.
 
 ## Estructura del Repositorio
 
-- `cloud_computing/`: Trabajos y proyectos de Cloud Computing.
-- `estadistica/`: Actividades de análisis estadísticos y visualizaciones.
-- `big_data/`: Trabajo relacionado con Big Data y una interfaz.
-- `nlp/`: Aplicación de Procesamiento de Lenguaje Natural.
+- `Cloud_computing/`: Trabajos y proyectos de Cloud Computing.
+- `Estadistica/`: Actividades de análisis estadísticos y visualizaciones.
+- `Big_data/`: Trabajo relacionado con Big Data y una interfaz.
+- `NLP/`: Aplicación de Procesamiento de Lenguaje Natural.
 
